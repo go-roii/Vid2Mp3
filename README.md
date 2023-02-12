@@ -1,4 +1,4 @@
-# vid2mp3
+# Vid2Mp3
 
 A video to mp3 converter Flutter project.
 
