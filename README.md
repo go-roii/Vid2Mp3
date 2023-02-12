@@ -1,6 +1,6 @@
 # Vid2Mp3
 
-A video to mp3 converter Flutter project.
+A video to mp3 converter Linux Flutter project using ffmpeg.
 
 ## Getting Started
 
